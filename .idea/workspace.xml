@@ -4,6 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
+
     <list default="true" id="5ef1c274-aaa5-4578-9575-3b708d015b57" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/OOP_HW_01/Chocolate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/OOP_HW_01/Drink.java" afterDir="false" />
@@ -44,6 +46,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+
+
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
@@ -51,6 +55,7 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kills\OneDrive\Рабочий стол\Study\Java_project\OOP\Homework\OOP_HW\src\main\java\OOP_HW_01" />
       <recent name="C:\Users\kills\OneDrive\Рабочий стол\Study\Java_project\OOP\Homework\OOP_HW" />
+
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,7 +80,9 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HW_01" />
+
+                        <option value="HW_02" />
+                     
                       </list>
                     </value>
                   </entry>
