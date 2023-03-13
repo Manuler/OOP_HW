@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ef1c274-aaa5-4578-9575-3b708d015b57" name="Changes" comment="initial commit" />
+
+
+    <list default="true" id="5ef1c274-aaa5-4578-9575-3b708d015b57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_HW_01/Chocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_HW_01/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_HW_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_HW_01/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_HW_01/TypesOfDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_HW_01/VendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,15 +46,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/kills/OneDrive/Рабочий стол/Study/Java_project/OOP/Homework/OOP_HW/src/main/java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+
+
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kills\OneDrive\Рабочий стол\Study\Java_project\OOP\Homework\OOP_HW\src\main\java" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kills\OneDrive\Рабочий стол\Study\Java_project\OOP\Homework\OOP_HW\src\main\java\OOP_HW_01" />
+      <recent name="C:\Users\kills\OneDrive\Рабочий стол\Study\Java_project\OOP\Homework\OOP_HW" />
+
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,7 +80,9 @@
                   <entry key="branch">
                     <value>
                       <list>
+
                         <option value="HW_02" />
+                     
                       </list>
                     </value>
                   </entry>
